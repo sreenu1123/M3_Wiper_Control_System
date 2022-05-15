@@ -1,5 +1,3 @@
-##M3_Wiper_Control_System
-
-This project can benefit from the addition of a speed-controlling mechanism,which will allow it to operate in accordance with the intensity and speed of the water flowing through the sensor. 
-The fundamental manoeuvring is done merely to make it more cost-effective and reliable in the long run. The idea i have been implemented is completly in working condition these can be used in any type of cars.We can also make this wiper system automatic by adding sensors for rain water falling on the wind shiled,dust resistance sensor,etc.So,there is no need to control the wiper system manually while driving the car.It can be more convinient we add the additional features to the wiper system and it can be done in near future.
-People around the world still working on this project so that we can make a system that works requires less human intervention.
+## M3_WIPER_CONTROL_SYSTEM
+This project can benefit from the addition of a speed-controlling mechanism, which will allow it to operate in accordance with the intensity and speed of the water flowing through the sensor. The fundamental manoeuvring is done merely to make it more cost-effective and reliable in the long run.
+The idea i have been implemented is completly in working condition these can be used in any type of cars.We can also make this wiper system automatic by adding sensors for rain water falling on the wind shiled,dust resistance sensor,etc.So,there is no need to control the wiper system manually while driving the car.It can be more convinient we add the additional features to the wiper system and it can be done in near future.People around the world still working on this project so that we can make  a system that works requires less human intervention.
