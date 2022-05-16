@@ -98,4 +98,4 @@
 * Low Bargaining Power Buyers
 * Ethical Pressure
 * Highly REgulated Industry
-* 
+
