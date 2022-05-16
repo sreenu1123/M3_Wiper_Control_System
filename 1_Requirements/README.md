@@ -49,9 +49,6 @@
 * Up to 192+4 Kbytes of SRAM including 64-Kbyte of CCM (core coupled memory) data RAM.
 * Up to 1 Mbyte of Flash memory.
 
-# WORKING PRINCIPLE:
-
-* Accept that the car is the microcontroller. Assuming the button is hit, the principal drove (red) will turn on, Clicking again the wiper will begin, and the subsequent drove (blue) will turn on for an ideal rate. Assuming the button is squeezed once more, the third driven (green) will turn on, and the wiper's speed will be expanded in contrast with the past one. The fourth press will turn on the fourth driven (orange), and the wiper speed will be expanded as per the past one. The microcontroller (vehicle) is switched off after the fifth snap.
 
 # USES:
 # 4W & H (WHO,WHAT,WHEN,WHERE,HOW)
