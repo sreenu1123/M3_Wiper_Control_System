@@ -20,6 +20,11 @@
 | HR_04 |	Wiper turned off |	Implemented |
 ## Low level requirements
 | ID |	Discription |	status |
+| --- | --- | --- | 
+| LR_01 |	Button pressed ONCE for two seconds - ON LED RED |	Implemented |
+| LR_02 |	Button pressed once again times - OFF LED RED |	Implemented |
+| LR_03	|Button pressed two time - ON BLUE,GREEN,ORANGE |	Implemented |
+| LR_04 |	Button pressed again for two seconds - OFF ORANGE,GREEN,BLUE |	Implemented |
 
 # SOFTWARE REQUIREMENTS:
 * STM32 IDE
